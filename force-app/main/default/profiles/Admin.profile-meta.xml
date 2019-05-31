@@ -178,9 +178,6 @@
         <layout>Broker__c-Broker Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>My_New_Object__c-My New Object Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Property__c-Property Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -190,15 +187,6 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Broker__c</object>
-        <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
-        <object>My_New_Object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
